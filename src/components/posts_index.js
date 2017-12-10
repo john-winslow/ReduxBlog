@@ -10,7 +10,7 @@ class PostsIndex extends Component {
   render() {
     return (
       <div>
-        Posts Index (placeholder)
+        Posts Index
       </div>
     );
   }
